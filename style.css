@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.03rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+div.heading {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 500px;
+    max-width: 80%;
+}
+
+.card {
+    width: 300px;
+    text-align: center;
+}
+
+.footer {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
